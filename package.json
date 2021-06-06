@@ -1,0 +1,20 @@
+{
+  "name": "study-css-grid",
+  "version": "1.0.0",
+  "description": "Study CSS Grid Layout with webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrowUp-Haruno/study-css-grid.git"
+  },
+  "keywords": [],
+  "author": "Daisuke Wada <m_ragna01@i.softbank.jp> (https://qiita.com/GrowUp-Haruno)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrowUp-Haruno/study-css-grid/issues"
+  },
+  "homepage": "https://github.com/GrowUp-Haruno/study-css-grid#readme"
+}
